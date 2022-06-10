@@ -18,7 +18,7 @@ public class Deck {
 
    */
   List<Card> cards = new ArrayList<Card>();
-  List<String> suits = Arrays.asList("Diamonds", "Hearts", "Clubs", "Spades");
+  List<String> suits = Arrays.asList("Clubs", "Diamonds", "Hearts", "Spades");
 
   public Deck() {
 

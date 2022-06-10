@@ -15,8 +15,8 @@ public class App {
     deck.shuffle();
 
     /*
-     4. Using a traditional for loop, iterate 52 times calling the Draw method on the other player
-        each iteration using the Deck you instantiated.
+     4. Using a traditional for loop, iterate 52 times calling the Draw method on the 
+        other player each iteration using the Deck you instantiated.
 
      */
     for (int i = 0; i < 52; i++) {
